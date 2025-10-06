@@ -42,10 +42,11 @@ flutter run
 
 
 To run on a specific platform:
-
+```bash
 flutter run -d chrome     # Web
 flutter run -d android    # Android
 flutter run -d ios        # iOS
 flutter run -d windows    # Windows
 flutter run -d macos      # macOS
 flutter run -d linux      # Linux
+```
