@@ -30,12 +30,15 @@ git clone https://github.com/tingyd/virtualfridge.git
 cd virtualfridge
 ```
 2. Install dependencies:
-
+```bash
 flutter pub get
+```
 
 3. Run the app:
 
+```bash
 flutter run
+```
 
 
 To run on a specific platform:
