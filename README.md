@@ -28,7 +28,7 @@ Virtual Fridge is a Flutter application designed to help users **manage and trac
 ```bash
 git clone https://github.com/tingyd/virtualfridge.git
 cd virtualfridge
-
+```
 2. Install dependencies:
 
 flutter pub get
